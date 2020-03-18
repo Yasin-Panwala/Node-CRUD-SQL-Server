@@ -1,0 +1,2 @@
+D:\Yasin_Projects\Code Hubs\NodeJS\CRUD SQL Server\CRUD SQL Server\obj\Debug\CRUD SQL Server.njsprojAssemblyReference.cache
+D:\Yasin_Projects\Code Hubs\NodeJS\CRUD SQL Server\CRUD SQL Server\bin\Microsoft.NodejsTools.WebRole.dll
